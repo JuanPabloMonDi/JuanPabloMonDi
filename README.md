@@ -5,7 +5,7 @@ I created this GitHub for my university studies during the COVID-19 pandemic, an
 For last, I would like to give a few details about myself:
 - I love maths and statistics, and I am interested in all kinds of areas, from their applications to their theory; I also like abstract algebra, lie algebra, topology, and number theory, as well as many areas that don't have much to do with programming (for now).
 - I can have advanced and fluent conversations in English, Spanish, and Portuguese. Fortunately, thanks to all the translation tools available on the internet, I can communicate in every language with a bit of extra effort.
--  I’m currently learning about the new coeffiecient of correlation proposed by Sourav Chatterjee (2021) and its performance on time series.  
+-  I’m currently learning about the new coefficient of correlation proposed by Sourav Chatterjee (2021) and its performance on time series.  
 <!---
 - 💞️ I’m looking to collaborate on ...
  📫 How to reach me ...
