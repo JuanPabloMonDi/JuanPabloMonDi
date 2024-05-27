@@ -1,6 +1,6 @@
-👋 Hello! I’m Juan Pablo (@JuanPabloMonDi), a mathematician and statistician with a degree from the National University of Colombia. 
+👋 Hello! I’m Juan Pablo (@JuanPabloMonDi), a mathematician and statistician from the National University of Colombia. 
 
-I created this GitHub for my university studies during the COVID-19 pandemic, and since then, I have seen it as an opportunity to share some of my projects with the people. Some repositories can be from papers and articles published in some journals, but others can be made just for fun.   
+I created this GitHub for my university studies during the COVID-19 pandemic, and since then, I have seen it as an opportunity to share some of my projects with everyone. Some repositories have been developed for academic papers, and others are made just for fun.   
 
 For last, I would like to give a few details about myself:
 - I love maths and statistics, and I am interested in all kinds of areas, from their applications to their theory; I also like abstract algebra, lie algebra, topology, and number theory, as well as many areas that don't have much to do with programming (for now).
